@@ -33,7 +33,7 @@ __Харківський Національний Університет Вну�
 - __Мови програмування__: Python(Django), C#, CSS
 	- __Базові знання__: C++, JavaScript, 
 
-- __Інструменти та технології__: Git, HTML, CSS, C++, Linux, RaspberryPI, Google search, Soni Vegas, MicrosoftOffice, Blenger
+- __Інструменти та технології__: Git, HTML, CSS, C++, Linux, RaspberryPI, Google search, Soni Vegas, MicrosoftOffice, Blender
 
 
 ## Про себе
