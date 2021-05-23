@@ -42,6 +42,10 @@ __Харківський Національний Університет Вну�
 
 - __Інструменти та технології__: Git, HTML, CSS, C++, Linux, RaspberryPI, Google search, Soni Vegas, MicrosoftOffice, Blender
 
+Пройшов навчальний курс - "Базові правила інформаційної безпеки"
+	- [_Посилання на GoogleDrive_][sertefikat1]
+Пройшов навчальний курс - "BlockChain та Bitcoin що це таке та як працює"
+	- [_Посилання на GoogleDrive_][sertefikat2]
 
 ## Про себе
 
@@ -49,3 +53,5 @@ __Харківський Національний Університет Вну�
 
 [ConverterApp]: https://github.com/Palamariuk/ConverterApp
 [TextAnalyzer]: https://github.com/Palamariuk/TextAnalyzer
+[sertefikat1]: https://drive.google.com/file/d/1wg3prJq8_6AfyLyUygjF29zQSFBuf3V7/view?usp=sharing
+[sertefikat2]: https://drive.google.com/file/d/13dR3ucaYz2kviRt8-0y0P5VolggFG2ZI/view?usp=sharing
